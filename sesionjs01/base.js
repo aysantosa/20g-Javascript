@@ -258,7 +258,7 @@ dato : fragmento de una información.
 
     //? Comparacion 
 
-    // == compracion 
+    // == comparacion 
     // let a = 1;
     // let b = '1';
     // console.log(a == b)
